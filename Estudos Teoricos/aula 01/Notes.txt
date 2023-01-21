@@ -1,0 +1,5 @@
+tscongfig.json: toda cconfiguração do typescript nesse projeto
+
+"target": "es2020"
+
+faz referenria a versão do typescript que estamos utilizando
