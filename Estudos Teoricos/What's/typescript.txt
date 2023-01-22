@@ -1,1 +1,11 @@
 Ajuda a evitar erros mais rapidamente.
+
+NPM I TSC -D
+
+É uma dependencia que permite executar um arquivo do Nodejs com typescript, sem precisar fazer conversão do arquivo.
+
+"scripts": {
+        "dev": "tsx watch src/server.ts"
+    },
+
+executa ao mesmo tempo em que faço alterações no meu arquivo

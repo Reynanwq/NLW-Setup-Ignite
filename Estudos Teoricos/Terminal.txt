@@ -1,3 +1,7 @@
 - npm init
 - npm install typescript
 - npx tsc --init
+- npm i tsc -D
+- npm i -D prisma
+- npm i @prisma/cliente
+- npx prisma init --datasource-provider SQLite
